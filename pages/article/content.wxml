@@ -1,0 +1,4 @@
+<!--content.wxml-->
+<view class="container log-list">
+  <text>{{content}}</text>
+</view>
