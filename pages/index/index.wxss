@@ -1,6 +1,4 @@
 /**index.wxss**/
-.scroll-wrapper {
-}
 .scroll-view-item {
   padding: 1rem 10px;
   display: flex;
